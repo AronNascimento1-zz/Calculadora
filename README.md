@@ -5,7 +5,7 @@
 <a href="https://aronnascimento1.github.io/Calculadora/"><img src="/assets/Calculator.gif" width="800px" height="500px"></a><br>
 clique<a href="https://aronnascimento1.github.io/Calculadora/"> aqui </a>para testar a calculadora
 _________
-🧑‍💻 Clone ou faça o downlod desse repositório:
+🧑‍💻 Clone ou faça o download desse repositório:
 
 ```
 # Clone o repositório
